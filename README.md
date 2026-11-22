@@ -6,7 +6,7 @@ Aplicación de escritorio para consultar y sincronizar tu catálogo de Jellyfin 
 - **Plataformas:** Windows x64 y Linux x64
 - **Descarga:** [última release](https://github.com/zynerio/BibliotecaJelly-desktop/releases/latest)
 
-Este repositorio contiene únicamente los artefactos de distribución y su documentación. El código fuente no se publica.
+Este repositorio contiene únicamente los artefactos de distribución y su documentación. El código fuente no se publica por ahora.
 
 ## Descargas de la versión 0.1.0
 
